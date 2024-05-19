@@ -1,4 +1,4 @@
-package section01.generic.ex02;
+package generic.ex02;
 
 public class Box<T> {
     private T value;

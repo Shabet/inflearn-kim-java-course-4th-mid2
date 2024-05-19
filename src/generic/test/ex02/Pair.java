@@ -1,4 +1,4 @@
-package section01.generic.test.ex02;
+package generic.test.ex02;
 
 public class Pair<K, V> {
     private K key;

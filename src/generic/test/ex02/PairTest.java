@@ -1,4 +1,4 @@
-package section01.generic.test.ex02;
+package generic.test.ex02;
 
 public class PairTest {
     public static void main(String[] args) {

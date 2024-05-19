@@ -1,4 +1,4 @@
-package section01.generic.test.ex01;
+package generic.test.ex01;
 
 public class Container<T> {
 

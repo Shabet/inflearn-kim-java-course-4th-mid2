@@ -1,4 +1,4 @@
-package section01.generic.ex01;
+package generic.ex01;
 
 public class BoxMain2 {
     public static void main(String[] args) {

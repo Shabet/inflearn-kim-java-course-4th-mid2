@@ -1,8 +1,8 @@
-package section01.generic.ex02;
+package generic.ex02;
 
-import section01.generic.animal.Animal;
-import section01.generic.animal.Cat;
-import section01.generic.animal.Dog;
+import generic.animal.Animal;
+import generic.animal.Cat;
+import generic.animal.Dog;
 
 public class AnimalMain1 {
     public static void main(String[] args) {

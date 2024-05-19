@@ -1,4 +1,4 @@
-package section01.generic.animal;
+package generic.animal;
 
 public class Dog extends Animal {
 
