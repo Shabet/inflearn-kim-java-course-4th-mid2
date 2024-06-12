@@ -11,4 +11,6 @@
 
 ## section05
 - collection.list
- 
+
+## section06
+- collection.set
