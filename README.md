@@ -14,3 +14,16 @@
 
 ## section06
 - collection.set
+
+## section07
+- collection.set
+- 
+## section08
+- collection.set
+ 
+## section09
+- collection.compare
+- collection.iterable
+ 
+## section10
+- collection.utils
