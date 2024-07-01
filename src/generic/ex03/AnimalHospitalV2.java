@@ -1,4 +1,4 @@
-package generic.test.ex03;
+package generic.ex03;
 
 public class AnimalHospitalV2<T> {
     private T animal;

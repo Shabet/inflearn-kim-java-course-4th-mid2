@@ -1,4 +1,4 @@
-package generic.test.ex04;
+package generic.ex04;
 
 import generic.animal.Animal;
 

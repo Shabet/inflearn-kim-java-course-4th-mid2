@@ -1,4 +1,4 @@
-package generic.test.ex05;
+package generic.ex05;
 
 public class Box<T> {
     private T value;

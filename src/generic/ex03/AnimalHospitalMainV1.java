@@ -1,6 +1,5 @@
-package generic.test.ex03;
+package generic.ex03;
 
-import generic.animal.Animal;
 import generic.animal.Cat;
 import generic.animal.Dog;
 
