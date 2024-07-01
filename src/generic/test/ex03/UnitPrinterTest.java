@@ -1,5 +1,5 @@
-package generic.test.ex03;
-
+import generic.test.ex03.Shuttle;
+import generic.test.ex03.UnitPrinter;
 import generic.test.ex03.unit.Marine;
 import generic.test.ex03.unit.Zealot;
 import generic.test.ex03.unit.Zergling;

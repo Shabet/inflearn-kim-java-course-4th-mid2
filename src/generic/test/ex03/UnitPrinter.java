@@ -1,7 +1,6 @@
 package generic.test.ex03;
 
 import generic.test.ex03.unit.BioUnit;
-import generic.test.ex03.unit.Marine;
 
 public class UnitPrinter {
     public static <T extends BioUnit> void printV1(Shuttle<T> t1) {
